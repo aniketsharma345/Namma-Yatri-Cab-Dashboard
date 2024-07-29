@@ -3559,17 +3559,6 @@ where rnk = 1;
 
 select * from ride_details;
 
--- which duration got the highest trips and fares
 
 
-Conversion_rate = calculate(sum(Merge2[end_ride])/sum(Merge2[searches]))
 
-NOTEPAD 
-
-https://drive.google.com/file/d/1neULQCoX1RKrx2NjK17K-UlaVShy7iP3/view?usp=sharing
-
-EXCEL 
-
-https://docs.google.com/spreadsheets/d/1CyKysHxqhGxdL7OqDm4o6IafJjYrpeO0/edit?usp=sharing&ouid=106801636617927197619&rtpof=true&sd=true
-project pro ola.txt
-Displaying project pro ola.txt.
